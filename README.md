@@ -10,8 +10,7 @@ git clone git@github.com:jimenezraul/portfolio-generator.git
 ```
 Install dependencies:
 ```
-cd portfolio-generator
-npm install
+cd portfolio-generator && npm install
 ```
 
 ## Usage
